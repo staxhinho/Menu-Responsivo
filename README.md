@@ -1,2 +1,2 @@
-# menuresponsivo-hyml-css-javascript
+# Menu responsive em HTML
 Um menu responsivo feito em HTML, CSS e Javascript. 
