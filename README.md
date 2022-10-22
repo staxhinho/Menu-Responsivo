@@ -1,2 +1,2 @@
-# Menu responsive em HTML
+# Menu responsivo em HTML
 Um menu responsivo feito em HTML, CSS e Javascript. 
